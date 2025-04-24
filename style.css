@@ -1,0 +1,25 @@
+.v1{
+    display: none;
+
+} 
+.v2{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 7%;
+    padding: 10px 0px 20px 20px;
+    background-color: rgb(213, 249, 239);
+    border-radius: 30px;
+}
+.container-1 :hover +p {
+    display: contents;
+    
+}
+.container-2 :hover +p{
+    display: contents;
+}
+.container-3 :hover +p{
+    display: contents;
+}
+.container-4 :hover +p{
+    display: contents;
+}
